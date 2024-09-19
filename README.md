@@ -2,7 +2,7 @@
 
 A simple Java application (e.g., To-Do list or Inventory system) demonstrating key Spring Core features, focusing on Dependency Injection (DI).
 
-Features
+Features:
 Dependency Injection with @Component and @Autowired.
 
 Clone the repository:
@@ -24,6 +24,6 @@ src/
 │   └── TaskManager.java   
 └── pom.xml
 
-License
+License:
 Licensed under MIT.
 
